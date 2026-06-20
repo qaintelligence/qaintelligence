@@ -7,7 +7,7 @@ I build resilient, intelligent test automation — with a focus on **AI-driven a
 - 🔭 Working on self-healing test frameworks and AI agents for end-to-end quality
 - 🧰 **Playwright · Cypress · TypeScript · Selenium · Python**
 - 🧪 Quality gates I care about: accessibility (axe-core), visual regression, security
-- 🌐 Portfolio: **https://qaintelligence.github.io/agiletester365.github.io/**
+- 🌐 Portfolio: **https://qaintelligence.github.io/**
 
 ### Featured work
 
